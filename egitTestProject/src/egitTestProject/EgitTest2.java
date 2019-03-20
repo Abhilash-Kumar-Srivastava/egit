@@ -5,7 +5,7 @@ public class EgitTest2 {
 public static void main(String[] args) {
 	
 	//Test start
-	System.out.println("Vinilda is great");
+	System.out.println(" great");
 	//Test end
 
 }
