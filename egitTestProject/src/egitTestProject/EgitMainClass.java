@@ -6,7 +6,7 @@ public class EgitMainClass {
 	
 		
 		System.out.println("Hi Hello");
-		System.out.println("Bye");
+		System.out.println("jaa be");
 		
 	}
 
