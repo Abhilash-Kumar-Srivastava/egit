@@ -4,9 +4,10 @@ public class EgitMainClass {
 
 	public static void main(String[] args) {
 		
-		//Test start
+	for(int i=0; i<5 ;i++) {
 		
-		//Test end
+		System.out.println("Hi Hello");
+	}
 
 	}
 
